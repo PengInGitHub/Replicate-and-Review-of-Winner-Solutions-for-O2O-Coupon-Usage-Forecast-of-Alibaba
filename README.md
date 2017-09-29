@@ -16,9 +16,9 @@ Considering the data set of high-quality and the outstanding problem-solving ski
 
 To note, the winner solution was written in Python 2 while my version is in Python 3.
 
-Files:
-solution_review.pdf elaborates and reviews the winner solution
-O2O_Coupon_Usage_Forecast.py --- feature engineering
+Files:   
+solution_review.pdf elaborates and reviews the winner solution   
+O2O_Coupon_Usage_Forecast.py --- feature engineering   
 xgb.py --- fit the data via XGB and report the feature importance
 
 
